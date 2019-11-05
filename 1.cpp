@@ -1,3 +1,5 @@
+//只使用了opencv，通过帧差法来寻找运动物体，只是显示了运动物体，没有任何的反馈。
+
 #include<iostream>
 #include<opencv2/opencv.hpp>
 #include<opencv2/core/core.hpp>
